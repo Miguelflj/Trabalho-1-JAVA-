@@ -1,0 +1,9 @@
+Dump_De_cliente.txt_Da_LocaHells
+Quantidade 7
+Miguel;1234;Rua A;999;0.0
+Pedro;111;Rua A;777;0.0
+Carlos;1245;Rua B;777;0.0
+Paulo;777;Rua C;777;0.0
+Luan;987;Rua F;777;0.0
+Francisco;19528;Rua P;999;0.0
+Linder;218;Rua 1;555;0.0
