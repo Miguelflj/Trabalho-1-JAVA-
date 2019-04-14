@@ -2,4 +2,4 @@
 Sistema simplificado de locação de veículos em Java
 
 
-  ![alt text](https://github.com/Miguelflj/Trabalho-1-JAVA/master/ImageT1p1/menu.png "Menu")
+  ![alt text](https://github.com/YuriFarias741/Trabalho-1-JAVA/master/ImageT1p1/menu.png)
